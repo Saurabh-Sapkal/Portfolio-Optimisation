@@ -177,5 +177,4 @@ The dashboard allows you to:
 - Compare predicted vs actual prices
 - Track prediction accuracy metrics
 
-**Note:** The dashboard requires Supabase to be configured and populated with data from previous optimization runs.
 
