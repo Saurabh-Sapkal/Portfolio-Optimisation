@@ -3,8 +3,6 @@
 ## Project Overview
 An end-to-end machine learning project that forecasts stock and asset prices using Facebook/Meta Prophet time series forecasting model, then applies Markowitz portfolio optimisation to rebalance portfolios based on these forecasts.
 
-_(Needless to say it's for illustrative purposes and not financial advice)._
-
 **Live Application**: This project is hosted on a Hostinger VPS, runs every morning at 3pm and is accessible at [portfolio-optimisation.com](https://portfolio-optimisation.com)
 
 **Presentation Slides**: [Here](https://gamma.app/docs/Prophet-Forecasting-for-Portfolio-Optimisation-7qsgynwy1h5x3it) are slides to accompany this project.
